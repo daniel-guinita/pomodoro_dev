@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "server",
+      "path": "server"
+    },
+    {
+      "name": "client",
+      "path": "client"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {}
+}

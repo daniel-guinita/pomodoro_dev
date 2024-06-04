@@ -1,0 +1,7 @@
+# Run docker
+- docker compose build
+- docker compose up -d
+
+
+# Create admin user
+- docker compose exec server python manage.py createsuperuser

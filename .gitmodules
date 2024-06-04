@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	branch = server
+	url = https://github.com/MJsica27/PomodoroEd
+[submodule "client"]
+	path = client
+	branch = client
+	url = https://github.com/MJsica27/PomodoroEd

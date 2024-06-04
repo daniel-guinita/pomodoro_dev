@@ -1,0 +1,146 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.idea/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+
+### Django ###
+*.log
+*.pyc
+local_settings.py
+
+.env
+db.sqlite3
+
+
+# Ignore system files and directories
+.DS_Store
+.Trashes/
+.idea/
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore user-specific files and directories
+/Desktop/
+/Documents/
+/Downloads/
+/Music/
+/Pictures/
+/Videos/
+
+
+# Ignore specific directories and files
+AndroidStudioProjects/
+Applications/
+Documents/
+Downloads/
+Library/
+MJ
+MJ.jpeg
+Movies/
+Music/
+Pictures/
+Public/
+RIZAL.png
+Tagalog Stylized Font _ Paul Morrow _ FontSpace.html
+Tagalog Stylized Font _ Paul Morrow _ FontSpace_files/
+aa
+download.html
+ee671ca5ed89139b9cbf67a4d96c8db0.jpeg
+../../images.jpeg
+istockphoto-1146165664-170667a.jpeg
+mj.txt
+package-lock.json
+package.json
+philippines-652971_640.webp
+please-use-other-door-graphic-260nw-2123095748.webp
+png-transparent-flag-of-the-philippines-united-states-fingerprint-welcome-to-the-philippines-flag-of-the-philippines.png
+ptt.txt
+rizal (1).png
+untitled.html
+well/
+
+media/
+
+.venv/
+
+api/migrations/*
+
+!api/migrations/__init__.py
